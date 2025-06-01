@@ -1,0 +1,9 @@
+{
+    "name":"J-2-S/WeatherModule",
+    "version":"0.0.0",
+    "os":"any",
+    "api_version":">=1.0.0",
+    "functions": [
+    ]
+}
+
